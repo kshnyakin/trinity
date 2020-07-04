@@ -1,24 +1,9 @@
-# README
+# Реализовано 2 модели: Авторы и Книги
+* У автора может быть много книг
+* У книг могут быть соавторы
+* У книги может быть главный автор
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Не реализовано
+* PostrgeSQL - в проекте использоуется SQLite
+* Авторизация, возникли проблемы приустановке devise на rails 6.0.3.2
+* Размещение на Ubuntu - Сервере - не хватило времени / знаний.
